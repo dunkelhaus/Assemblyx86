@@ -1,0 +1,14 @@
+Reading symbols from editDist.out...done.
+(gdb) Breakpoint 1 at 0x8048074: file editDist.s, line 31.
+(gdb) Breakpoint 2 at 0x804817b: file editDist.s, line 187.
+(gdb) Starting program: /home/sjena/cs50/Homework2/editDist/editDist.out 
+
+Breakpoint 1, _start () at editDist.s:31
+31		movl $oldDist, %ebx
+(gdb) (gdb) (gdb) Continuing.
+
+Breakpoint 2, done () at editDist.s:187
+187	done:  movl $word1len, %edx
+(gdb) $1 = 256
+(gdb) Kill the program being debugged? (y or n) [answered Y; input not from terminal]
+(gdb) 

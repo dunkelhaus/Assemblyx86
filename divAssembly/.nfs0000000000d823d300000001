@@ -1,0 +1,8 @@
+Reading symbols from divAssembly.out...done.
+(gdb) Breakpoint 1 at 0x8048074: file divAssembly.s, line 33.
+(gdb) Breakpoint 2 at 0x80480db: file divAssembly.s, line 80.
+(gdb) Starting program: /home/kravisan/cs50/Homework2/divAssembly/divAssembly.out 
+
+Breakpoint 1, nobits () at divAssembly.s:33
+33		movl i, %esi
+(gdb) (gdb) (gdb) Continuing.

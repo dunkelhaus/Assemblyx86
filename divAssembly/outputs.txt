@@ -1,0 +1,36 @@
+12 / 4 = nbits: 5
+I: 4
+Remainder: 0
+Dividend (change test 1): 12
+Dividend (change test 2): 12
+Bit: 0
+Remainder (2nd occurence): 0
+I: 3
+Remainder: 0
+Dividend (change test 1): 12
+Dividend (change test 2): 12
+Bit: 1
+Remainder (2nd occurence): 1
+I: 2
+Remainder: 2
+Dividend (change test 1): 12
+Dividend (change test 2): 12
+Bit: 1
+Remainder (2nd occurence): 3
+I: 1
+Remainder: 6
+Dividend (change test 1): 12
+Dividend (change test 2): 12
+Bit: 0
+Remainder (2nd occurence): 6
+Remainder (3rd occurence; 2
+Quotient: 2
+I: 0
+Remainder: 4
+Dividend (change test 1): 12
+Dividend (change test 2): 12
+Bit: 0
+Remainder (2nd occurence): 4
+Remainder (3rd occurence; 0
+Quotient: 3
+3 R 0

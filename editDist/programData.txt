@@ -1,0 +1,114 @@
+curDist[0] outer: 1
+J (elseloop): 1
+curDist[j] (end of else): 1
+J (elseloop): 2
+curDist[j] (end of else): 2
+J (elseloop): 3
+curDist[j] (end of else): 3
+J (elseloop): 4
+curDist[j] (end of else): 4
+J (elseloop): 5
+curDist[j] (end of else): 5
+J (elseloop): 6
+curDist[j] (end of else): 6
+J (elseloop): 7
+curDist[j] (end of else): 7
+curDist[0] outer: 2
+J (elseloop): 1
+curDist[j] (end of else): 2
+J (ifloop): 2
+curDist[j] if loop: 2
+curDist[j] after assignment (if loop): 1
+J (elseloop): 3
+curDist[j] (end of else): 2
+J (elseloop): 4
+curDist[j] (end of else): 3
+J (ifloop): 5
+curDist[j] if loop: 5
+curDist[j] after assignment (if loop): 4
+J (elseloop): 6
+curDist[j] (end of else): 5
+J (elseloop): 7
+curDist[j] (end of else): 6
+curDist[0] outer: 3
+J (elseloop): 1
+curDist[j] (end of else): 3
+J (elseloop): 2
+curDist[j] (end of else): 2
+J (ifloop): 3
+curDist[j] if loop: 3
+curDist[j] after assignment (if loop): 1
+J (ifloop): 4
+curDist[j] if loop: 4
+curDist[j] after assignment (if loop): 2
+J (elseloop): 5
+curDist[j] (end of else): 3
+J (elseloop): 6
+curDist[j] (end of else): 4
+J (elseloop): 7
+curDist[j] (end of else): 5
+curDist[0] outer: 4
+J (elseloop): 1
+curDist[j] (end of else): 4
+J (elseloop): 2
+curDist[j] (end of else): 3
+J (ifloop): 3
+curDist[j] if loop: 2
+curDist[j] after assignment (if loop): 2
+J (ifloop): 4
+curDist[j] if loop: 3
+curDist[j] after assignment (if loop): 1
+J (elseloop): 5
+curDist[j] (end of else): 2
+J (elseloop): 6
+curDist[j] (end of else): 3
+J (elseloop): 7
+curDist[j] (end of else): 4
+curDist[0] outer: 5
+J (elseloop): 1
+curDist[j] (end of else): 5
+J (elseloop): 2
+curDist[j] (end of else): 4
+J (elseloop): 3
+curDist[j] (end of else): 3
+J (elseloop): 4
+curDist[j] (end of else): 2
+J (elseloop): 5
+curDist[j] (end of else): 2
+J (elseloop): 6
+curDist[j] (end of else): 3
+J (elseloop): 7
+curDist[j] (end of else): 4
+curDist[0] outer: 6
+J (elseloop): 1
+curDist[j] (end of else): 6
+J (elseloop): 2
+curDist[j] (end of else): 5
+J (elseloop): 3
+curDist[j] (end of else): 4
+J (elseloop): 4
+curDist[j] (end of else): 3
+J (elseloop): 5
+curDist[j] (end of else): 3
+J (ifloop): 6
+curDist[j] if loop: 3
+curDist[j] after assignment (if loop): 2
+J (elseloop): 7
+curDist[j] (end of else): 3
+Ending elements oldDist[]:                      6
+Ending elements curDist[]: 5
+Ending elements oldDist[]:                      6
+Ending elements curDist[]: 5
+Ending elements oldDist[]:                      5
+Ending elements curDist[]: 4
+Ending elements oldDist[]:                      4
+Ending elements curDist[]: 3
+Ending elements oldDist[]:                      3
+Ending elements curDist[]: 2
+Ending elements oldDist[]:                      3
+Ending elements curDist[]: 2
+Ending elements oldDist[]:                      2
+Ending elements curDist[]: 3
+Ending elements oldDist[]:                      3
+Ending elements curDist[]: 4
+The distance between kitten and sitting is 3.

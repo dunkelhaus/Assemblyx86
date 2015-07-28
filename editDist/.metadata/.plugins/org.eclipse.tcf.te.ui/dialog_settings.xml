@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.tcf.te.tcf.ui.wizards.NewWizard">
+		<section name="org.eclipse.tcf.te.tcf.ui.wizards.pages.NewTargetWizardPage">
+			<section name="MyTransportTypeControl">
+			</section>
+			<section name="NewTargetWizardPage">
+			</section>
+			<section name="MyTransportTypePanelControl">
+				<section name="TCP">
+				</section>
+				<section name="Custom">
+				</section>
+				<section name="PIPE">
+				</section>
+				<section name="SSL">
+				</section>
+			</section>
+		</section>
+	</section>
+	<section name="org.eclipse.tcf.te.ui.wizards.newWizard.NewWizard">
+		<section name="org.eclipse.tcf.te.ui.wizards.newWizard.NewWizardSelectionPage">
+		</section>
+	</section>
+</section>
